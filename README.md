@@ -2,8 +2,7 @@
 
 # Urdu to English Neural Machine Translation (NMT) Model, By KP Sarkar IITG
 
-This repository contains a NMT Model for translating Urdu’s Nastaliq script into English.  
-The model is fine‑tuned by me under the guidance of IIT Guwahati faculty and is based on an encoder–decoder transformer architecture, achieving over 40 BLEU score on benchmark tests.
+This repository contains a NMT Model for translating Urdu’s Nastaliq script into English.  The model is fine‑tuned by me under the guidance of IIT Guwahati faculty and is based on an encoder–decoder transformer architecture, achieving over 40 BLEU score on benchmark tests.
 
 ## Contents
 
